@@ -244,7 +244,7 @@ autoBtn.TextSize = 16
 autoBtn.Font = Enum.Font.FredokaOne
 autoBtn.TextColor3 = Color3.new(1, 1, 1)
 
-local autoRunning = true
+local autoRunning = false
 local bestPets = {
     ["Raccoon"] = true, ["Dragonfly"] = true, ["Queen Bee"] = true,
     ["Disco Bee"] = true, ["Fennec Fox"] = true, ["Fox"] = true,
