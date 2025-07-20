@@ -248,7 +248,7 @@ local autoRunning = false
 local bestPets = {
     ["Raccoon"] = true, ["Dragonfly"] = true, ["Queen Bee"] = true,
     ["Disco Bee"] = true, ["Fennec Fox"] = true, ["Fox"] = true,
-    ["Mimic Octopus"] = true
+    ["Mimic Octopus"] = true, ["Kitsune"] = true
 }
 
 autoBtn.MouseButton1Click:Connect(function()
