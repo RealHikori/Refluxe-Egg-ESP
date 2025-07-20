@@ -1,4 +1,4 @@
--- Visual pet hatch simulator with drag, ESP, auto random, pet age loader
+-- Esp Pet Hatch Simulator with Drag, ESP, Auto random, No-Lag-HUB Loader
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
 local TweenService = game:GetService("TweenService")
